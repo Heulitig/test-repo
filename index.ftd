@@ -1,57 +1,8 @@
 -- import: heulitig.github.io/test-repo/assets
 
+-- ds.page: Welcome to the fresh new site
 
+-- ds.h1: Say hello to its rightful owner
 
--- ds.page: Welcome to your [FPM site](https://fpm.dev/)
-
-FPM Blank Package Template Repo
-
-🧑‍🚀 **Seasoned traveler?** update this file. Enjoy!
-
-
---- ds.image: doc-site
-src: $assets.files.doc-site-example.png
-width: fill
-
-
---- ds.h1: 🚀 Project Structure
-
-Inside of your FPM project, you'll see the following folders and files:
-
-
---- ds.code:
-lang:
-
-/
-├── .build/
-│   └── index.html
-├── .packages/
-│   └── fifthtry.github.io/
-│   	└── All downloaded dependencies
-│   	
-├── FPM.ftd
-├── index.ftd
-└── README.md
-
-
-
---- ds.h1: 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
---- ds.code:
-lang:
-
-=======================================================================
-| Command                | Action                                     |
-| :--------------------- | :----------------------------------------- |
-| fpm build              | FPM builder installs all `FPM` dependencies|
-| fpm serve              | Starts local dev server at available port  |
-|                        | `localhost:8000`                           |
-=======================================================================
-
-
---- ds.h1: 👀 Want to learn more?
-
-Feel free to check [our documentation](https://fpm.dev/) or jump into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
-
+-- ftd.image:
+src: $assets.files.this-cat.jpeg
