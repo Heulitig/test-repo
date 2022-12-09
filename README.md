@@ -2,7 +2,7 @@
 
 FPM Blank Package Template Repo
 
-[![Deploy using FifthTry (local)](fifthtry-button.svg)](http://127.0.0.1:8000/deploy/?git-repo=<user_name>/<repo_name>)
+[![Deploy using FifthTry (local)](fifthtry-button.svg)](http://127.0.0.1:8000/deploy/?git-repo=heulitig/test-repo)
 
 > 🧑‍🚀 **Seasoned traveler?** update this file. Enjoy!
 
